@@ -1,0 +1,17 @@
+{
+  "name": "hapi-react-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js server/index.js"
+  },
+  "dependencies": {
+    "good": "^7.3.0",
+    "good-console": "^6.4.0",
+    "good-squeeze": "^5.0.2",
+    "hapi": "^16.6.0",
+    "inert": "^4.2.1",
+    "nodemon": "^1.12.1"
+  }
+}
